@@ -25,10 +25,12 @@ Election.sol
 
 `uint id;`
 
-//候选人
+//候选人 
+
 `string name;`
 
-//得票数
+//得票数 
+
 `uint voteCount;`
 
 `}`
