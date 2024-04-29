@@ -9,7 +9,8 @@
 3. 记录每个候选人的得票数
 ==*在用户界面上，需要看到每个候选人的得票数以及选择候选人进行投票，需求设计效果如图所示：==*
 
-![效果图](Pasted image 20240429102607.png) 
+![图片描述](https://raw.githubusercontent.com/weibesanTech/voteApp/master/Pasted image 20240429102607.png)
+
 
 **编写智能合约**:
 Election.sol
